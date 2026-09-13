@@ -542,7 +542,7 @@
     "Id": "2f326a0c-cd9f-4ddf-9b45-f8abf082283f",
     "Name": "i18n:plugin_name",
     "Author": "Wox-launcher",
-    "Version": "0.2.3",
+    "Version": "0.4.0",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_desc",
@@ -558,7 +558,7 @@
       "Linux"
     ],
     "DateCreated": "2026-03-08 15:56:00",
-    "DateUpdated": "2026-06-09 15:59:48",
+    "DateUpdated": "2026-09-13 03:09:34",
     "I18n": {
       "en_US": {
         "plugin_name": "Codex Usage",
@@ -1236,7 +1236,7 @@
     "Id": "35E4296B-89E2-492E-977B-0120ECCB5C95",
     "Name": "i18n:plugin_name",
     "Author": "qianlifeng",
-    "Version": "0.1.0",
+    "Version": "0.1.1",
     "MinWoxVersion": "2.4.2",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_description",
@@ -1252,7 +1252,7 @@
       "Linux"
     ],
     "DateCreated": "2026-09-06 18:03:00",
-    "DateUpdated": "2026-09-06 18:03:00",
+    "DateUpdated": "2026-09-13 03:09:43",
     "I18n": {
       "en_US": {
         "plugin_name": "GitHub",
